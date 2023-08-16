@@ -1,0 +1,16 @@
+.navbar-bg{
+    background-color: #272829;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+div{
+    display: inline-block;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+.items{
+    text-align: center;
+    left: 50%;
+}
